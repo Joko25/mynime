@@ -3,3 +3,10 @@ node_js:
 - node
 before_install:
 - mv .env.example .env
+
+deploy:
+  provider: heroku
+  api_key:
+    secure: "7d3dddce-d914-41c2-aea1-82f6e2dff149"
+  on:
+    all_branches: true
