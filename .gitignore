@@ -1,0 +1,6 @@
+/node_modules
+/logs
+/Server/public/images/screenshot/*
+deploy-key
+ecosystem.config.js
+.env
