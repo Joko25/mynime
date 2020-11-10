@@ -3,4 +3,3 @@
 /Server/public/images/screenshot/*
 deploy-key
 ecosystem.config.js
-.env
